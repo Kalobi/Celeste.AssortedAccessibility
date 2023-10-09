@@ -3,7 +3,7 @@
 namespace Celeste.Mod.AssortedAccessibility; 
 
 public class AssortedAccessibilityModuleSettings : EverestModuleSettings {
-    [SettingName("Disable Screen Wipes On Death")]
+    [SettingName("KALOBI_ASSACC_DISABLESCREENWIPES")]
     public bool DisableScreenWipes { get; set; }
 
     public bool ChangeDustSpriteColors { get; set; }
