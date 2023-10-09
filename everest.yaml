@@ -1,0 +1,6 @@
+- Name: AssortedAccessibility
+  Version: 1.0.0
+  DLL: bin/AssortedAccessibility.dll
+  Dependencies:
+    - Name: Everest
+      Version: 1.4265.0
